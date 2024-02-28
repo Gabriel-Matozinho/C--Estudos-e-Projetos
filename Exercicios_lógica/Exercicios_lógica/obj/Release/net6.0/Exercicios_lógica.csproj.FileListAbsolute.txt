@@ -1,0 +1,5 @@
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Release\net6.0\Exercicios_lógica.csproj.AssemblyReference.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Release\net6.0\Exercicios_lógica.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Release\net6.0\Exercicios_lógica.AssemblyInfoInputs.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Release\net6.0\Exercicios_lógica.AssemblyInfo.cs
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Release\net6.0\Exercicios_lógica.csproj.CoreCompileInputs.cache

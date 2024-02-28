@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Entradadas_de_Dados_C#/1.0.0": {
+        "runtime": {
+          "Entradadas_de_Dados_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entradadas_de_Dados_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

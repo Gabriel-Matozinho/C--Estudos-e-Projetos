@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\bin\Debug\net6.0\Teste02.exe
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\bin\Debug\net6.0\Teste02.deps.json
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\bin\Debug\net6.0\Teste02.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\bin\Debug\net6.0\Teste02.dll
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\bin\Debug\net6.0\Teste02.pdb
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.dll
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\refint\Teste02.dll
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.pdb
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\Teste02.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Matriz\Teste02\obj\Debug\net6.0\ref\Teste02.dll
