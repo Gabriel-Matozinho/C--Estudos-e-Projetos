@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿global using global::System;
 global using global::System.Collections.Generic;
 global using global::System.IO;
@@ -45,3 +46,12 @@ namespace ListaExercicio01 {
         }
     }
 }
+=======
+﻿namespace Lista01 {
+    internal class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+>>>>>>> 363e0d0f036c0b6db04cc0f7791200b611edf65a

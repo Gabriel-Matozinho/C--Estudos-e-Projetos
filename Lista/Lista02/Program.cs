@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿namespace ListaExercicio02 {
     internal class Program {
         static void Main(string[] args) {
@@ -24,3 +25,12 @@
         }
     }
 }
+=======
+﻿namespace Lista02 {
+    internal class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+>>>>>>> 363e0d0f036c0b6db04cc0f7791200b611edf65a
