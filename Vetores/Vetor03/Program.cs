@@ -10,7 +10,7 @@ namespace Vetor03 {
             int n;
             int[] A, B, C;
 
-            //Entraada de dados
+            //Entrada de dados
             n = int.Parse(Console.ReadLine());
 
             // Vetores irão ter o tamanho do valor da variável 'n'

@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\bin\Debug\net7.0\ListaExercicio01.exe
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\bin\Debug\net7.0\ListaExercicio01.deps.json
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\bin\Debug\net7.0\ListaExercicio01.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\bin\Debug\net7.0\ListaExercicio01.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\bin\Debug\net7.0\ListaExercicio01.pdb
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\refint\ListaExercicio01.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.pdb
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ref\ListaExercicio01.dll
