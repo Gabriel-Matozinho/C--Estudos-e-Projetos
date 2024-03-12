@@ -1,4 +1,6 @@
-﻿namespace Lista03 {
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace Lista03 {
     internal class Program {
         static void Main(string[] args) {
 
@@ -23,12 +25,15 @@
                 B.Add(int.Parse(listaB[i]));
             }
             
+            //Somando duas listas e colocando o resultado em outra lista
             for (int i = 0; i < n ;i++) {
                 C.Add(A[i]+B[i]);                
             }
+
+            //Saída de dados da lista C
             foreach(int numeros in C) {
                 Console.Write(numeros + " ");
-            }
+            }    
         }
     }
 }
