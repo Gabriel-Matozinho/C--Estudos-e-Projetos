@@ -9,18 +9,18 @@ namespace Lista03 {
             int n = int.Parse(Console.ReadLine());
             List<int> A, B, C;
 
-            // Vetores irão ter o tamanho do valor da variável 'n'
+            // Listas irão ter o tamanho do valor da variável 'n'
             A = new List<int>();
             B = new List<int>();
             C = new List<int>();
 
-            //Vetores que irão receber os valores na horizontal
+            //Listas que irão receber os valores na horizontal
             string[] listaA = Console.ReadLine().Split(' ');
             string[] listaB = Console.ReadLine().Split(' ');
 
             //Laço de repetição
             for (int i = 0;i < n ;i++) {
-                //Conversão de valores string na horizontal para inteiros na horizontal
+                //Conversão de valores string na horizontal para inteiros na horizontal e adição a lista
                 A.Add(int.Parse(listaA[i]));
                 B.Add(int.Parse(listaB[i]));
             }
