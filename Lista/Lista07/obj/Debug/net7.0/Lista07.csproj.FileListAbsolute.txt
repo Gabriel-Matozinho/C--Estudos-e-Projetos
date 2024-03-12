@@ -1,0 +1,14 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\bin\Debug\net7.0\Lista07.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\bin\Debug\net7.0\Lista07.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\bin\Debug\net7.0\Lista07.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\bin\Debug\net7.0\Lista07.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\bin\Debug\net7.0\Lista07.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\refint\Lista07.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\Lista07.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos-main\Lista\Lista07\obj\Debug\net7.0\ref\Lista07.dll

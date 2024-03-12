@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCeVwEC5T596Fqgyl9k1TgMBFDj+uZ5nUYu/KYEOAGZMlAwApt0hddGe0Oo6FBTqHgMeFEHZRz1MG8z6qvrb4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos-main\\Lista\\Lista06\\Lista06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

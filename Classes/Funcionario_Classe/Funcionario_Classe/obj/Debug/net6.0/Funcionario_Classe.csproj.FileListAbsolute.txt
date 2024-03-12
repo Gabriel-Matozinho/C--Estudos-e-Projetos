@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\bin\Debug\net6.0\Funcionario_Classe.exe
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\bin\Debug\net6.0\Funcionario_Classe.deps.json
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\bin\Debug\net6.0\Funcionario_Classe.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\bin\Debug\net6.0\Funcionario_Classe.dll
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\bin\Debug\net6.0\Funcionario_Classe.pdb
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.dll
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\refint\Funcionario_Classe.dll
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.pdb
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\Funcionario_Classe.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Classes\Funcionario_Classe\Funcionario_Classe\obj\Debug\net6.0\ref\Funcionario_Classe.dll

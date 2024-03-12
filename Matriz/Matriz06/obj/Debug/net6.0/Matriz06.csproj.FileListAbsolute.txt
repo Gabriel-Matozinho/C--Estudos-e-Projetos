@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\bin\Debug\net6.0\Matriz06.exe
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\bin\Debug\net6.0\Matriz06.deps.json
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\bin\Debug\net6.0\Matriz06.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\bin\Debug\net6.0\Matriz06.dll
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\bin\Debug\net6.0\Matriz06.pdb
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.dll
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\refint\Matriz06.dll
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.pdb
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\Matriz06.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Matriz\Matriz06\obj\Debug\net6.0\ref\Matriz06.dll

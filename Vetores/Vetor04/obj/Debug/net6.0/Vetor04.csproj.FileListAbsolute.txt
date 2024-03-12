@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\bin\Debug\net6.0\Vetor04.exe
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\bin\Debug\net6.0\Vetor04.deps.json
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\bin\Debug\net6.0\Vetor04.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\bin\Debug\net6.0\Vetor04.dll
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\bin\Debug\net6.0\Vetor04.pdb
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.dll
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\refint\Vetor04.dll
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.pdb
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\Vetor04.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Vetores\Vetor04\obj\Debug\net6.0\ref\Vetor04.dll

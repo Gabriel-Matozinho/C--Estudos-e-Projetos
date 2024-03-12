@@ -1,0 +1,15 @@
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.csproj.AssemblyReference.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.AssemblyInfoInputs.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.AssemblyInfo.cs
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\bin\Debug\net6.0\Exercicios_lógica.exe
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\bin\Debug\net6.0\Exercicios_lógica.deps.json
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\bin\Debug\net6.0\Exercicios_lógica.runtimeconfig.json
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\bin\Debug\net6.0\Exercicios_lógica.dll
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\bin\Debug\net6.0\Exercicios_lógica.pdb
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.dll
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\refint\Exercicios_lógica.dll
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.pdb
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\Exercicios_lógica.genruntimeconfig.cache
+F:\VisualStudio\Estudo_C#\Exercicios_lógica\Exercicios_lógica\obj\Debug\net6.0\ref\Exercicios_lógica.dll

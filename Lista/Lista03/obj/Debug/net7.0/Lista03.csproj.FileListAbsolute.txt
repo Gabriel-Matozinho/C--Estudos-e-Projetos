@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Lista\Lista03\bin\Debug\net7.0\Lista03.exe
+E:\VisualStudio\Estudo_C#\Lista\Lista03\bin\Debug\net7.0\Lista03.deps.json
+E:\VisualStudio\Estudo_C#\Lista\Lista03\bin\Debug\net7.0\Lista03.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Lista\Lista03\bin\Debug\net7.0\Lista03.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista03\bin\Debug\net7.0\Lista03.pdb
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\refint\Lista03.dll
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.pdb
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\Lista03.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Lista\Lista03\obj\Debug\net7.0\ref\Lista03.dll

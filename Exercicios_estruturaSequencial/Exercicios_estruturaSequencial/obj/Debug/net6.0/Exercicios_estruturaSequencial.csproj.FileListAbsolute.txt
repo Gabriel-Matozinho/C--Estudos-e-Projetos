@@ -1,0 +1,15 @@
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\bin\Debug\net6.0\Exercicios_estruturaSequencial.exe
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\bin\Debug\net6.0\Exercicios_estruturaSequencial.deps.json
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\bin\Debug\net6.0\Exercicios_estruturaSequencial.runtimeconfig.json
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\bin\Debug\net6.0\Exercicios_estruturaSequencial.dll
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\bin\Debug\net6.0\Exercicios_estruturaSequencial.pdb
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.csproj.AssemblyReference.cache
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.AssemblyInfoInputs.cache
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.AssemblyInfo.cs
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.csproj.CoreCompileInputs.cache
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.dll
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\refint\Exercicios_estruturaSequencial.dll
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.pdb
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\Exercicios_estruturaSequencial.genruntimeconfig.cache
+F:\VisualStudio\Estudo_C#\Exercicios_estruturaSequencial\Exercicios_estruturaSequencial\obj\Debug\net6.0\ref\Exercicios_estruturaSequencial.dll
