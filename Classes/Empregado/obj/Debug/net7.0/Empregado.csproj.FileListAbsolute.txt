@@ -1,0 +1,14 @@
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.AssemblyInfoInputs.cache
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.AssemblyInfo.cs
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Estudo_C#\Classes\Empregado\bin\Debug\net7.0\Empregado.exe
+E:\VisualStudio\Estudo_C#\Classes\Empregado\bin\Debug\net7.0\Empregado.deps.json
+E:\VisualStudio\Estudo_C#\Classes\Empregado\bin\Debug\net7.0\Empregado.runtimeconfig.json
+E:\VisualStudio\Estudo_C#\Classes\Empregado\bin\Debug\net7.0\Empregado.dll
+E:\VisualStudio\Estudo_C#\Classes\Empregado\bin\Debug\net7.0\Empregado.pdb
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.dll
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\refint\Empregado.dll
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.pdb
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\Empregado.genruntimeconfig.cache
+E:\VisualStudio\Estudo_C#\Classes\Empregado\obj\Debug\net7.0\ref\Empregado.dll

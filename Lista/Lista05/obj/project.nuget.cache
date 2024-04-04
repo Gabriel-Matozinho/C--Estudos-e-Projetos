@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MZjER5vsUZFZ2C/0nou4gR7gKcMn0JPyNJjgMdrMv5AKRQ74uMmI+RrOLBgOQcWRzddnUNE40kEojF58R4hH3A==",
+  "dgSpecHash": "dOHlbsxFeLAMi9Qnzr/4HmVeozd987NhmqFj3MhjtH3PjntLAwnnXRqUlit446Hj5gPxuO7WPZSZUBrXGeoZPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos-main\\Lista\\Lista05\\Lista05.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Zellus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
-  ],
-  "logs": []
+  "projectFilePath": "E:\\VisualStudio\\Estudo_C#\\Lista\\Lista05\\Lista05.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache E:\\VisualStudio\\Estudo_C#\\Lista\\Lista05\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
