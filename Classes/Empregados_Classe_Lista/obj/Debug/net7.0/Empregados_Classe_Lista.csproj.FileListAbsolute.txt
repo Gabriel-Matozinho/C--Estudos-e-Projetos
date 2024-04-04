@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\bin\Debug\net7.0\Empregados_Classe_Lista.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\bin\Debug\net7.0\Empregados_Classe_Lista.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\bin\Debug\net7.0\Empregados_Classe_Lista.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\bin\Debug\net7.0\Empregados_Classe_Lista.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\bin\Debug\net7.0\Empregados_Classe_Lista.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\refint\Empregados_Classe_Lista.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\Empregados_Classe_Lista.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Empregados_Classe_Lista\obj\Debug\net7.0\ref\Empregados_Classe_Lista.dll
