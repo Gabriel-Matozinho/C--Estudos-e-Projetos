@@ -16,7 +16,7 @@ namespace Lista06 {
                 //Vetore para passar os valores na horizontal
                 string[] s = Console.ReadLine().Split(' ');
                 Nome.Add(s[0]);                
-                Idade.Add(int.Parse(s[1]);
+                Idade.Add(int.Parse(s[1]));
             }
 
             int maiorIdade = Idade[0];
