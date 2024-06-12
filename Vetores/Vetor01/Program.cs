@@ -9,7 +9,7 @@ namespace Vetor01 {
             n = int.Parse(Console.ReadLine());
             vet = new double[n];
 
-            //Estrada de dados, converção para um vetor de string de leitura horizontal.
+            //Entrada de dados, converção para um vetor de string de leitura horizontal.
             string[] s = Console.ReadLine().Split(' ');
 
             //Usando o laço para converter o tipo string para double e usar da variavel 'i' para alocação dos valores dos dados de entrada no vetor
