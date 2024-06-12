@@ -29,9 +29,9 @@ namespace Vetor02 {
 
             //Laço de repetição
             for(int i = 0; i < n; i++) {
-                if (numeros[i] %2 == 0) { // condi~ção para buscar os valores pares dentro do vetor
+                if (numeros[i] %2 == 0) { // condição para buscar os valores pares dentro do vetor
                     par = numeros[i]; // variavel 'par' irá receber o número par que está dentro do vetor 'numeros'
-                    cont++; //variaável que irá contabilizar a quantidade de números pares que seram encontrados dentro do vetor
+                    cont++; //variável que irá contabilizar a quantidade de números pares que seram encontrados dentro do vetor
                     Console.Write(par + " "); //Saída de dados
                 }                
             }            
