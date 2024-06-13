@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\bin\Debug\net8.0\VetorClasse02.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\bin\Debug\net8.0\VetorClasse02.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\bin\Debug\net8.0\VetorClasse02.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\bin\Debug\net8.0\VetorClasse02.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\bin\Debug\net8.0\VetorClasse02.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\refint\VetorClasse02.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\VetorClasse02.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Vetor_Classes\VetorClasse2\obj\Debug\net8.0\ref\VetorClasse02.dll

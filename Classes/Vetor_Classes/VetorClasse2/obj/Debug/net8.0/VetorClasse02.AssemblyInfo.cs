@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Basico Classes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VetorClasse02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97f01cd8a62ecdc9717057858910e927571565b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Basico Classes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Basico Classes")]
+[assembly: System.Reflection.AssemblyProductAttribute("VetorClasse02")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VetorClasse02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
