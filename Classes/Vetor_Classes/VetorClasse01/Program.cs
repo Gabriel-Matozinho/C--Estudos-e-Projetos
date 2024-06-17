@@ -26,8 +26,6 @@ namespace VetorClasse01 {
             }
 
             Console.WriteLine(avg.ToString("F2",CultureInfo.InvariantCulture));
-        }
-
-        
+        }        
     }
 }
