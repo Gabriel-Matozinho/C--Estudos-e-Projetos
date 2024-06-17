@@ -12,3 +12,6 @@ E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\refint
 E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.pdb
 E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ListaExercicio01.genruntimeconfig.cache
 E:\VisualStudio\Estudo_C#\Lista\Lista01\ListaExercicio01\obj\Debug\net7.0\ref\ListaExercicio01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net7.0\ListaExercicio01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net7.0\refint\ListaExercicio01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net7.0\ListaExercicio01.pdb

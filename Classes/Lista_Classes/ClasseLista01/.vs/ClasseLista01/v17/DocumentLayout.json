@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Classes\\Lista_Classes\\ClasseLista01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B21783-DF88-41B6-8557-621AEB1D10D5}|ClasseLista01\\ClasseLista01.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\programas\\c--estudos-e-projetos\\classes\\lista_classes\\classelista01\\classelista01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B21783-DF88-41B6-8557-621AEB1D10D5}|ClasseLista01\\ClasseLista01.csproj|solutionrelative:classelista01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B21783-DF88-41B6-8557-621AEB1D10D5}|ClasseLista01\\ClasseLista01.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\programas\\c--estudos-e-projetos\\classes\\lista_classes\\classelista01\\classelista01\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B21783-DF88-41B6-8557-621AEB1D10D5}|ClasseLista01\\ClasseLista01.csproj|solutionrelative:classelista01\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Classes\\Lista_Classes\\ClasseLista01\\ClasseLista01\\Produto.cs",
+              "RelativeDocumentMoniker": "ClasseLista01\\Produto.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Classes\\Lista_Classes\\ClasseLista01\\ClasseLista01\\Produto.cs",
+              "RelativeToolTip": "ClasseLista01\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:40:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Classes\\Lista_Classes\\ClasseLista01\\ClasseLista01\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseLista01\\Program.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Classes\\Lista_Classes\\ClasseLista01\\ClasseLista01\\Program.cs",
+              "RelativeToolTip": "ClasseLista01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:40:12.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

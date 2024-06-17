@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj": {}
+    "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj": {}
   },
   "projects": {
-    "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj": {
+    "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
+        "projectUniqueName": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
         "projectName": "Lista01",
-        "projectPath": "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
-        "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\obj\\",
+        "projectPath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
+        "packagesPath": "C:\\Users\\Zellus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zellus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

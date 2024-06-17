@@ -11,7 +11,7 @@
             int QuantiaDeQuartosAlugados = int.Parse(Console.ReadLine());
 
             //Laço de repetição
-            for(int i = 1; i <= QuantiaDeQuartosAlugados; i++) {
+            for(int i = 1; i <= QuantiaDeQuartosAlugados; i++) { 
                 //Saída de dados
                 Console.WriteLine($"Rent #{i}");
                 Console.Write("Name: ");

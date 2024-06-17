@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿global using global::System;
 global using global::System.Collections.Generic;
 global using global::System.IO;
@@ -47,5 +47,3 @@ namespace ListaExercicio01 {
     }
 }
 
-}
->>>>>>> 363e0d0f036c0b6db04cc0f7791200b611edf65a

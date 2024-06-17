@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\bin\Debug\net8.0\Lista01.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\bin\Debug\net8.0\Lista01.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\bin\Debug\net8.0\Lista01.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\bin\Debug\net8.0\Lista01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\bin\Debug\net8.0\Lista01.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\refint\Lista01.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\Lista01.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Lista\Lista01\obj\Debug\net8.0\ref\Lista01.dll

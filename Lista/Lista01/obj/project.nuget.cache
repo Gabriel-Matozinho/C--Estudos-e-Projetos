@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "wMHEBfmN5wiHkL/RjT4oKLrs6wnfjbeuJuEWo7QXDJEpqPgsNnbYpxwDMEz52vxLMZ44d7E6zgnxI0D9dDiu9Q==",
+  "dgSpecHash": "Ns2s+EHAbEM=",
   "success": true,
-  "projectFilePath": "E:\\VisualStudio\\Estudo_C#\\Lista\\Lista01\\ListaExercicio01.csproj",
-=======
-  "dgSpecHash": "hILus4K074mxYL7xsdq6JH8IJFYY1U5zTZ7gj0vN/Ps14/CMB7aRjSKCfX9IdGtsi+TK6nyYypCg6gfPVYWrAg==",
-  "success": true,
-  "projectFilePath": "D:\\Gabriel\\Visual_Studio\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
->>>>>>> 363e0d0f036c0b6db04cc0f7791200b611edf65a
+  "projectFilePath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\Lista01.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Programas\\C--Estudos-e-Projetos\\Lista\\Lista01\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
