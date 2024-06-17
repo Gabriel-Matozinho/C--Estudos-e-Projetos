@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\bin\Debug\net7.0\ClasseLista03.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\bin\Debug\net7.0\ClasseLista03.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\bin\Debug\net7.0\ClasseLista03.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\bin\Debug\net7.0\ClasseLista03.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\bin\Debug\net7.0\ClasseLista03.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\refint\ClasseLista03.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ClasseLista03.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Classes\Lista_Classes\ClasseLista03\obj\Debug\net7.0\ref\ClasseLista03.dll
