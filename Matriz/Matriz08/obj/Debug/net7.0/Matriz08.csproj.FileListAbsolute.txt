@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\bin\Debug\net7.0\Matriz08.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\bin\Debug\net7.0\Matriz08.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\bin\Debug\net7.0\Matriz08.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\bin\Debug\net7.0\Matriz08.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\bin\Debug\net7.0\Matriz08.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\refint\Matriz08.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\Matriz08.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Matriz\Matriz08\obj\Debug\net7.0\ref\Matriz08.dll
