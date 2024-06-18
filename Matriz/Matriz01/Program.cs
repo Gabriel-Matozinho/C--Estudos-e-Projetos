@@ -22,7 +22,6 @@ namespace Matriz01 {
                     numeros[i, j] = int.Parse(s[j]);//A Matriz na posição 'i,j', irá recer o valor declarado no vetor 'string[] s' na posição 'j' do loop for
                 }
             }
-
             
             //Declaração da variavél para achar números negativos dentro da Matriz
             int negativos = 0;
