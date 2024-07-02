@@ -1,7 +1,7 @@
 ﻿
 namespace Enumerate01.Entities.Enums
 {
-    enum OrderStatus
+    enum OrderStatus : int
     {
         PendingPayment = 0,
         Processing = 1,
