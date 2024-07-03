@@ -7,6 +7,7 @@
         public Department() 
         { 
         }
+
         public Department(string name) {
             Name = name;
         }
