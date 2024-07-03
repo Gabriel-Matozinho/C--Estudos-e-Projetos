@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudio\\Estudo_C#\\Matriz\\Matriz01\\Matriz01.csproj",
+      "projectUniqueName": "E:\\VisualStudio\\C--Estudos-e-Projetos\\Matriz\\Matriz01\\Matriz01.csproj",
       "projectName": "Matriz01",
-      "projectPath": "E:\\VisualStudio\\Estudo_C#\\Matriz\\Matriz01\\Matriz01.csproj",
+      "projectPath": "E:\\VisualStudio\\C--Estudos-e-Projetos\\Matriz\\Matriz01\\Matriz01.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudio\\Estudo_C#\\Matriz\\Matriz01\\obj\\",
+      "outputPath": "E:\\VisualStudio\\C--Estudos-e-Projetos\\Matriz\\Matriz01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -22,10 +22,10 @@ namespace Projeto_Work
             Department dept = new Department(deptName);
             Worker worker = new Worker(name,level,basesalary,dept);
 
-            Console.WriteLine("How many contracts to this worker: ");
+            Console.Write("How many contracts to this worker: ");
             int n = int.Parse(Console.ReadLine());
 
-            for(int i = 1; i <= n; i++) 
+            for(int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Enter #{i} contract data:");
                 Console.Write("Date (DD/MM/YYYY): ");
@@ -39,13 +39,13 @@ namespace Projeto_Work
             }
 
             Console.WriteLine();
-            Console.Write("Enter month and year to calculate income (MM/YYYY)");
+            Console.Write("Enter month and year to calculate income (MM/YYYY) ");
             string monthAndYear = Console.ReadLine();
             int month = int.Parse(monthAndYear.Substring(0,2));
             int year = int.Parse(monthAndYear.Substring(3));
             Console.WriteLine("Name: " + worker.Name);
-            Console.WriteLine("Department: " +  worker.Department.Name);
-            Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month) );
+            Console.WriteLine("Department: " + worker.Department.Name);
+            Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year,month));
         }
     }
 }
