@@ -1,4 +1,4 @@
-﻿namespace Enumerate02.Entities
+﻿namespace Projeto_Work.Entities
 {
     internal class Department
     {

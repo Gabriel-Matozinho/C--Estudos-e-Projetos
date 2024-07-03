@@ -1,11 +1,10 @@
-﻿using Enumerate02.Entities.Enums;
+﻿using Projeto_Work.Entities.Enums;
 using System;
+using System.Globalization;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Enumerate02.Entities
+
+namespace Projeto_Work.Entities
 {
     internal class Worker
     {

@@ -1,4 +1,4 @@
-﻿namespace Enumerate02.Entities.Enums
+﻿namespace Projeto_Work.Entities.Enums
 {
     enum WorkerLevel: int
     {
