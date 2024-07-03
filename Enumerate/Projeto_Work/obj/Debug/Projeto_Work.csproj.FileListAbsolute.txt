@@ -1,0 +1,7 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\bin\Debug\Enumerate02.exe.config
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\bin\Debug\Enumerate02.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\bin\Debug\Enumerate02.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\obj\Debug\Projeto_Work.csproj.AssemblyReference.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\obj\Debug\Projeto_Work.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\obj\Debug\Enumerate02.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Work\obj\Debug\Enumerate02.pdb
