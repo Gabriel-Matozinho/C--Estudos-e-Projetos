@@ -2,13 +2,17 @@
 {
     internal class Department
     {
+        // Propriedade para o nome do departamento
         public string Name { get; set; }
 
-        public Department() 
-        { 
+        // Construtor padrão
+        public Department()
+        {
         }
 
-        public Department(string name) {
+        // Construtor com parâmetro para inicialização do nome
+        public Department(string name)
+        {
             Name = name;
         }
     }

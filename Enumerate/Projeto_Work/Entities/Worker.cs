@@ -1,55 +1,69 @@
-﻿using Projeto_Work.Entities.Enums;
+﻿// Importa enumerações definidas no projeto
+using Projeto_Work.Entities.Enums;
+// Importa funcionalidades básicas do .NET
 using System;
+// Importa funcionalidades de formatação cultural
 using System.Globalization;
+// Importa funcionalidades de coleções genéricas
 using System.Collections.Generic;
-
 
 namespace Projeto_Work.Entities
 {
-    internal class Worker
+     class Worker
     {
+        // Propriedades do trabalhador
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
 
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>(); //Já a instancia para não começar nula
+        // Lista de contratos de trabalho, já inicializada para evitar nulos
+        public List<HourContract> Contracts { get; set; } = new List<HourContract>();
 
-        public Worker() 
-        {        
+        // Construtor padrão
+        public Worker()
+        {
         }
 
-        public Worker(string name, WorkerLevel level, double basesalary,Department department)
+        // Construtor com parâmetros para inicialização das propriedades
+        public Worker(string name,WorkerLevel level,double basesalary,Department department)
         {
             Name = name;
             Level = level;
             BaseSalary = basesalary;
             Department = department;
-            //Não se instancia Listas em construtores - só em alguns casos
+            // Não é necessário inicializar a lista de contratos aqui
         }
 
-        public void AddContract(HourContract contract) // Método para adicionar os dados dos trabalharoes no contrato
+        // Método para adicionar um contrato à lista
+        public void AddContract(HourContract contract)
         {
             Contracts.Add(contract);
         }
 
-        public void RemoveContract(HourContract contract)// Método para remover os dados dos trabalharoes no contrato
+        // Método para remover um contrato da lista
+        public void RemoveContract(HourContract contract)
         {
             Contracts.Remove(contract);
         }
 
+        // Método para calcular a renda total em um determinado mês e ano
         public double Income(int year,int month)
         {
-            double sum = BaseSalary; // Sálario base mensal, caso coloque um mes onde não houve contrato de trabalho o valor do sálario será o base
-            foreach(HourContract contract in Contracts)// laço de repetição para percorrer a lista contratato da classe 'HourContract'
+            // Começa com o salário base
+            double sum = BaseSalary;
+            // Percorre todos os contratos
+            foreach(HourContract contract in Contracts)
             {
-                if(contract.Date.Year == year && contract.Date.Month == month)//Condição para verificar se na data selecionada houve contrato de serviço
+                // Verifica se o contrato é do ano e mês especificados
+                if(contract.Date.Year == year && contract.Date.Month == month)
                 {
-                    sum += contract.TotalValue();//Caso tenha contrato será acrescido no valor do salário base o valor das horas x o valor hora de serviço
+                    // Adiciona o valor total do contrato à soma
+                    sum += contract.TotalValue();
                 }
             }
-            return sum; 
+            // Retorna a soma total
+            return sum;
         }
-
     }
 }
