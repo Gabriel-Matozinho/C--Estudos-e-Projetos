@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\bin\Debug\net7.0\Projeto_Post.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\bin\Debug\net7.0\Projeto_Post.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\bin\Debug\net7.0\Projeto_Post.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\bin\Debug\net7.0\Projeto_Post.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\bin\Debug\net7.0\Projeto_Post.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\refint\Projeto_Post.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\Projeto_Post.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Post\obj\Debug\net7.0\ref\Projeto_Post.dll
