@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Projeto_Order.Entities
+﻿namespace Projeto_Order.Entities
 {
     internal class Product
     {
@@ -14,6 +8,7 @@ namespace Projeto_Order.Entities
         public Product()
         {
         }
+
         public Product(string name,double price)
         {
             Name = name;

@@ -1,0 +1,15 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.AssemblyInfoInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.AssemblyInfo.cs
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.sourcelink.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\bin\Debug\net7.0\Projeto_Order.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\bin\Debug\net7.0\Projeto_Order.deps.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\bin\Debug\net7.0\Projeto_Order.runtimeconfig.json
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\bin\Debug\net7.0\Projeto_Order.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\bin\Debug\net7.0\Projeto_Order.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\refint\Projeto_Order.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\Projeto_Order.genruntimeconfig.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Programas\C--Estudos-e-Projetos\Enumerate\Projeto_Order\obj\Debug\net7.0\ref\Projeto_Order.dll

@@ -1,6 +1,6 @@
 ﻿namespace Projeto_Order.Entities.Enum
 {
-    enum OrderStatus : int
+    enum OrderStatus: int
     {
         PendingPayment = 0,
         Processing = 1,
