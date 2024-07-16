@@ -9,6 +9,7 @@ namespace Projeto_Order
     {
         static void Main(string[] args)
         {
+            // Entrada de dados do cliente
             Console.WriteLine("Enter client data:");
             Console.Write("Name: ");
             string clientName = Console.ReadLine();
@@ -17,13 +18,16 @@ namespace Projeto_Order
             Console.Write("Birth date (DD/MM/YYYY): ");
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
 
+            // Entrada de dados do pedido
             Console.WriteLine("Enter order data:");
             Console.Write("Status: ");
             OrderStatus status = (OrderStatus)Enum.Parse(typeof(OrderStatus),Console.ReadLine());
 
+            // Criação do cliente e do pedido
             Client client = new Client(clientName,email,birthDate);
             Order order = new Order(DateTime.Now,status,client);
 
+            // Entrada de dados dos itens do pedido
             Console.Write("How many items to this order: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -44,6 +48,7 @@ namespace Projeto_Order
                 order.AddItem(orderItem);
             }
 
+            // Exibição do resumo do pedido
             Console.WriteLine();
             Console.WriteLine("ORDER SUMMARY:");
             Console.WriteLine(order);

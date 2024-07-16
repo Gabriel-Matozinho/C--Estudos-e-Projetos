@@ -6,15 +6,18 @@ namespace Projeto_Order.Entities
 {
     internal class Order
     {
+        // Propriedades do pedido
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
+        // Construtor padrão
         public Order()
         {
         }
 
+        // Construtor com parâmetros para inicializar as propriedades
         public Order(DateTime moment,OrderStatus status,Client client)
         {
             Moment = moment;
@@ -22,16 +25,19 @@ namespace Projeto_Order.Entities
             Client = client;
         }
 
+        // Método para adicionar um item ao pedido
         public void AddItem(OrderItem item)
         {
             Items.Add(item);
         }
 
+        // Método para remover um item do pedido
         public void RemoveItem(OrderItem item)
         {
             Items.Remove(item);
         }
 
+        // Método para calcular o total do pedido somando os subtotais dos itens
         public double Total()
         {
             double sum = 0.0;
@@ -42,6 +48,7 @@ namespace Projeto_Order.Entities
             return sum;
         }
 
+        // Sobrescrita do método ToString para exibir informações do pedido
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
