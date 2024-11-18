@@ -20,7 +20,7 @@
                 string email = Console.ReadLine();
                 Console.Write("Quarto: ");
                 int quarto = int.Parse(Console.ReadLine());
-                aluguel[i] = new Aluguel(nome,email);
+                aluguel[quarto] = new Aluguel(nome,email);
             }
             Console.WriteLine();
             Console.WriteLine("Busy rooms");
